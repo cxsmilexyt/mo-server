@@ -1,0 +1,9 @@
+# server configs
+
+ip: "0.0.0.0"
+port: 9999
+notify_method:  # dingtalk |
+  dingtalk:
+    enable: false  # true | false (default)
+    webhook: "place your dingtalk webhook here"
+    secret: "place your dingtalk secret here"
