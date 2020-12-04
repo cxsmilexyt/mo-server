@@ -1,4 +1,4 @@
-# DM4P Monitor Server
+# DM4P - Monitor Server
 **mo-server** is a simple server for monitor and notify.
 ## Usage
 ```
